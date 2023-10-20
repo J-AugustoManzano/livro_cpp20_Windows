@@ -1,5 +1,6 @@
 // C02EX08.CPP
 
+#include <iostream> 
 using namespace std;
 
 int main(void)

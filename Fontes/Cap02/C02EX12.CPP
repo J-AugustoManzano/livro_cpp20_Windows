@@ -6,22 +6,22 @@ using namespace std;
 
 int main(void)
 {
-    bool X = true;
+    bool x = true;
 
     cout << boolalpha;
 
-    cout << "Valor X como verdadeiro ...: " << X << endl;
+    cout << "Valor X como verdadeiro ...: " << x << endl;
 
-    X = false;
-    cout << "Valor X como falso ........: " << X << endl;
+    x = false;
+    cout << "Valor X como falso ........: " << x << endl;
 
     cout << noboolalpha;
 
-    X = true;
-    cout << "Valor X como verdadeiro ...: " << X << endl;
+    x = true;
+    cout << "Valor X como verdadeiro ...: " << x << endl;
 
-    X = false;
-    cout << "Valor X como falso ........: " << X << endl;
+    x = false;
+    cout << "Valor X como falso ........: " << x << endl;
 
     cout << endl;
     cout << "Tecle <Enter> para encerrar... ";

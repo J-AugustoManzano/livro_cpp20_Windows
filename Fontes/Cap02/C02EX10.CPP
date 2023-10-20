@@ -21,7 +21,7 @@ int main(void)
 
   v = h * PI * pow(r, 2);
 
-  cout << "Area do Cilindro .: " << V << endl;
+  cout << "Area do Cilindro .: " << v << endl;
 
   cout << endl;
   cout << "Tecle <Enter> para encerrar... ";
