@@ -42,7 +42,6 @@ class Aluno : public Sala
     float PegaMedia(void);
 };
 
-
 Aluno::Aluno(void)
 {
   cout << "Construtor: Inicializa classe Aluno" << endl;
