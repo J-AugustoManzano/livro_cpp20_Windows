@@ -7,24 +7,22 @@ using namespace std;
 int main (void)
 {
 
-  char PAUSA;
+  int a = 1;
+  int b = 1;
 
-  int A = 1;
-  int B = 1;
+  int *pa = nullptr;
+  int *pb = nullptr;
 
-  int *PA = nullptr;
-  int *PB = nullptr;
+  pa = &a;
+  pb = &b;
 
-  PA = &A;
-  PB = &B;
-
-  cout << "Valor A = " << *PA << " no endereco " << &PA;
+  cout << "Valor A = " << *pa << " no endereco " << &pa;
   cout << "." << endl;
-  cout << "Valor B = " << *PB << " no endereco " << &PB;
+  cout << "Valor B = " << *pb << " no endereco " << &pb;
   cout << "." << endl;
   cout << endl;
 
-  if (PA > PB)
+  if (pa > pb)
     cout << "PA esta a frente de *PB.";
   else
     cout << "PA nao esta a frente de *PB.";
