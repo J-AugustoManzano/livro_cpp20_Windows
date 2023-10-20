@@ -22,5 +22,5 @@
 #define white    15 // Branco
 
 void clear(void);
-void position(int LINHA, int COLUNA);
-void color(int COR_FUNDO, int COR_TEXTO);
+void position(int linha, int coluna);
+void color(int corFundo, int corTexto);
