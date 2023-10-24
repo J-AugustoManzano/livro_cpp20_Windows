@@ -7,7 +7,6 @@ using namespace std;
 
 int main(void)
 {
-
   float num[5];
   ifstream arqbin("EXEMPLO2.BIN", ios::binary | ios::in);
 

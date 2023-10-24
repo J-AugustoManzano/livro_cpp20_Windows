@@ -24,8 +24,6 @@ int main(void)
   arqbin.write(reinterpret_cast<const char*>(&tamanho),
                 sizeof(int));
 
-
-
   // Escreve os caracteres da mensagem
   arqbin.write(mensagem.c_str(), tamanho);
 
