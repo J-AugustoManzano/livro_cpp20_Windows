@@ -6,3 +6,5 @@ Os programas aqui indicados poderão ser modificados a qualquer instante sem pr�
 Não há garantia de que os programas apresentados estejam corretos e ajustados (em fase de desenvolvimento).
 
 ![Livro C++20 Windows](https://github.com/J-AugustoManzano/imagens/blob/main/CapaC%2B%2B20.png)
+
+[Para comprar clique aqui](https://clubedeautores.com.br/livro/c-20-para-windows)
