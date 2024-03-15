@@ -14,9 +14,7 @@ int main(void)
   cin.ignore(80, '\n');
 
   for (int i = 1; i <= n; ++i)
-  {
     fat *= i;
-  }
 
   cout << endl;
   cout << "Fatorial de " << n << " = " << fat << endl;
