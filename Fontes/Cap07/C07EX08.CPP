@@ -8,7 +8,7 @@ using namespace std;
 int main(void)
 {
 
-  int a[10], i, j, pesq;
+  int a[10], i, pesq;
   bool acha;
   char resp;
 
